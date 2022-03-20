@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Navit</string>
+    <string name="mapbox_access_token">PUBLIC TOKEN</string>
+</resources>
